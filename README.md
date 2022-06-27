@@ -1,36 +1,42 @@
-CONTENTS
-User Experience
+### CONTENTS
 
-Project Goals
-User Stories
-Design
+## User Experience
 
-Colour Scheme
-Typography
-Imagery
-Wireframes
-Database Structure
-Features
+* Project Goals
+* User Stories
 
-General Features of Each Page
-Future Implementations
-Accessibility
-Technologies Used
+## Design
 
-Languages Used
-Frameworks, Libraries & Programs Used
-Google Books API
-Deployment & Local Development
+* Colour Scheme
+* Typography
+* Imagery
+* Wireframes
+* Database Structure
 
-Deployment
-Local Development
-How to Fork
-How to Clone
-Testing
+## Features
 
-Credits
+* General Features of Each Page
+* Future Implementations
+* Accessibility
 
-Code Used
-Content
-Media
-Acknowledgments
+## Technologies Used
+
+* Languages Used
+* Frameworks, Libraries & Programs Used
+* Google Books API
+
+## Deployment & Local Development
+
+* Deployment
+* Local Development
+* How to Fork
+* How to Clone
+
+## Testing
+
+## Credits
+
+* Code Used
+* Content
+* Media
+* Acknowledgments
